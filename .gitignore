@@ -8,3 +8,11 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 */target/
+*/mvn/timing.properties
+*/buildNumber.properties
+*/dependency-reduced-pom.xml
+*/release.properties
+*/pom.xml.next
+*/pom.xml.versionBackup
+*/pom.xml.releaseBackup
+*/pom.xml.tag
