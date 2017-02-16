@@ -16,3 +16,5 @@ buildNumber.properties
 */pom.xml.versionBackup
 */pom.xml.releaseBackup
 */pom.xml.tag
+*/.mvn/*
+*/.mvn/*
